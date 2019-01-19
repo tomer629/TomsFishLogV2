@@ -8,6 +8,8 @@ TomsFishLogAppSettingsAndKeys.config
 ConnectionStrings.config
 TomsFishLog/TomsFishLogAppSettingsAndKeys.config
 TomsFishLog/ConnectionStrings.config
+TomsFishLog/TomsFishLog/TomsFishLogAppSettingsAndKeys.config
+TomsFishLog/TomsFishLog/ConnectionStrings.config
 
 
 # User-specific files
