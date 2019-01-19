@@ -6,6 +6,8 @@
 
 TomsFishLogAppSettingsAndKeys.config
 ConnectionStrings.config
+TomsFishLog/TomsFishLogAppSettingsAndKeys.config
+TomsFishLog/ConnectionStrings.config
 
 
 # User-specific files
